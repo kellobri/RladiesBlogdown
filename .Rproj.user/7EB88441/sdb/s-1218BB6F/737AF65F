@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: R Ladies\nauthor: Kelly\ndate: '2017-06-11'\nslug: r-ladies\ncategories: []\ntags: []\n---\n\n# R Ladies Blogdown Tutorial\n\n\nBlogdown Code:\n```\ninstall.packages('devtools')\nlibrary(devtools)\ndevtools::install_github('rstudio/blogdown')\n\nlibrary(blogdown)\nblogdown::install_hugo()\nblogdown::new_site()\n# The site is now being \"Served\" - any changes made will be automatically rendered\n# Stop the site from serving\n```",
+    "created" : 1497193120860.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3652871713",
+    "id" : "737AF65F",
+    "lastKnownWriteTime" : 1497193567,
+    "last_content_update" : 1497193567714,
+    "path" : "~/Github-Kelly/RLadiesDCBlog/content/post/2017-06-11-r-ladies.md",
+    "project_path" : "content/post/2017-06-11-r-ladies.md",
+    "properties" : {
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
