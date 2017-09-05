@@ -1,6 +1,10 @@
 ---
-title: "About"
-date: "2016-05-05T21:48:51-07:00"
+title: "Contact"
+date: "2017-09-05T21:48:51-07:00"
 ---
-Kelly O.
-This is a "hello world" example website for the [**blogdown**](https://github.com/rstudio/blogdown) package. The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium-theme).
+
+
+- [R-Ladies DC Email](dc@rladies.org)
+- [**R-Ladies DC Meetup**](https://www.meetup.com/rladies-dc/)
+- [R-Ladies DC Twitter](https://twitter.com/RLadiesDC)
+
